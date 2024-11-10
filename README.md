@@ -6,4 +6,4 @@ FIMA uses a Wio Terminal, equipped with an IMU sensor, temperature and humidity 
 
 FIMA addresses sustainability by incorporating software updates to extend device longevity and educating users on energy-efficient practices to minimize food waste. The project emphasizes security measures against common threats, including identity spoofing, data tampering, and denial-of-service attacks, ensuring data integrity, user authentication, and device availability.
 
-Read the PDF for more details, only parts of the codes in this project are uploaded.
+Read the PDF for more details, this project is not fully developed and only parts of the codes in this project are uploaded.
