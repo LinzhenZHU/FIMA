@@ -8,7 +8,7 @@ topic_sub = "Wio-5620"
 topic_pub = "FIMA"
 
 # Generate client ID with pub prefix randomly
-client_id = 'mqttx_a20215620'
+client_id = ''
 username = 'your username'
 password = 'your password'
 deviceId = "your deviceId"
